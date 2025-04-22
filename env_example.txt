@@ -1,0 +1,12 @@
+# API settings
+PORT=
+
+# Security settings
+JWT_SECRET=
+
+# Database settings
+MONGODB_URI=
+DATABASE_NAME=
+
+# CORS settings
+FRONTEND_URL=
